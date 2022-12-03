@@ -5,10 +5,13 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Shinigamis gostam de maçãs
 
-<div style="display: inline_block">
+##
+
+<div style="display: inline_block" align-items="center">
   <a href="https://github.com/rafaeru-png">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeru-png&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeru-png&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rafaeru-png&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    _
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeru-png&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,11 +24,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   ##
+-                   Follow me on my Social Medias ^-^
   
   <img src="https://media.giphy.com/media/ellxlkgbPTiM0/giphy.gif" width="480" height="258" frameBorder="1" class="giphy-embed" allowFullScreen></img><p></p>
 </div>
-
-
 
 ##
 
