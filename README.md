@@ -5,8 +5,6 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Shinigamis gostam de maçãs
 
-##
-
 <div align="center">
   <a href="https://github.com/rafaeru-png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeru-png&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
