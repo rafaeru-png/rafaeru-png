@@ -1,9 +1,16 @@
 ### Hi there, Rafaeru Here 👋
 
-- 🔭 Estou estudando as linguagens 
-- 🌱 Estou aprendendo HTML/CSS
+pt-br
+- 🔭 Desenvolvedor Front - end 
+- 💻 HTML, CSS, JavaScript, NodeJS
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Shinigamis gostam de maçãs
+
+en-us
+- 🔭 Front-end Developer
+- 💻 HTML, CSS, JavaScript, NodeJS
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Shinigamis like apples
 
 ##
 
@@ -22,7 +29,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   ##
--                   Follow me on my Social Medias ^-^
+-                   Follow me on my Social Medias 😎
   
   <img src="https://media.giphy.com/media/ellxlkgbPTiM0/giphy.gif" width="480" height="258" frameBorder="1" class="giphy-embed" allowFullScreen></img><p></p>
 </div>
