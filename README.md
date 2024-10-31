@@ -1,7 +1,7 @@
 ### Hi there, Rafaeru Here 👋
 
 - 🔭 Front-end Developer
-- 💻 HTML, CSS, JavaScript, NodeJS
+- 💻 HTML, CSS, JavaScript, VueJS, Rest
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Shinigamis like apples
 
