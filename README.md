@@ -1,31 +1,66 @@
-### Hi there, Rafaeru Here 👋
+# **👋 Oii, eu sou o Rafael**  
+### **💻 Desenvolvedor Full-Stack | 🚀 Apaixonado por Tecnologia**  
 
-- 🔭 Front-end Developer
-- 💻 HTML, CSS, JavaScript, VueJS, Rest
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Shinigamis like apples
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeru-png/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rafaeru-png)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://seuportfolio.com)  
 
-##
+---
 
-<div style="display: inline_block" align-items="center">
-  <a href="https://github.com/rafaeru-png">
+## **🛠 Tecnologias & Habilidades**  
+
+### **Front-end**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+
+### **Back-end & Ferramentas**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+
+---
+
+## **📌 Projetos em Destaque**  
+
+| **Projeto** | **Descrição** | **Tecnologias** |  
+|-------------|--------------|----------------|  
+| [🔗 **Missão Estácio**](https://github.com/rafaeru-png/missao-1-mundo-2-estacio) | 3 projetos em um com HTML, CSS e JS puro | `HTML` `CSS` `JavaScript` |  
+| [🔗 **Gerenciamento para Opções Binarias**](https://github.com/rafaeru-png/gerenciamento-ob) | permite o controle detalhado de uma conta de corretora | `React` `Firebase` `CSS Modules` |  
+| [🔗 **Portfólio Pessoal**](https://github.com/rafaeru-png/) | Meu site pessoal | `Next.js` `TailwindCSS` `Framer Motion` |  
+
+---
+
+## **📊 Estatísticas do GitHub**  
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeru-png&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    _
-
-<div style="display: inline_block"><br>
-
-  ##
-  
-  <img src="https://media.giphy.com/media/ellxlkgbPTiM0/giphy.gif" width="480" height="258" frameBorder="1" class="giphy-embed" allowFullScreen></img><p></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeru-png&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
+---
 
-  <a href="https://www.youtube.com/channel/UCOLYIcxQni313Z5zROV_coA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rafaeru.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/chillingrafaeru" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaeru.png@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-santos-b9a438246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+## **🎯 Objetivos Atuais**  
+
+- **Aprender mais sobre** → `Next.js` `Testes Automatizados` `Design Systems`  
+- **Construir** → Um projeto open-source para a comunidade  
+- **Contribuir** → Em projetos de impacto social  
+
+---
+
+## **📫 Vamos conversar?**  
+
+💬 **Me chame no:**  
+- [LinkedIn](https://www.linkedin.com/in/rafaeru-png/)   
+- **Email:** rafaeru.png@gmail.com  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaeru-png&color=blueviolet" alt="Profile views" />
+  <p>Feito com ❤️ e ☕ por <strong>[Rafaeru.py]</strong></p>
 </div>
+
+---
