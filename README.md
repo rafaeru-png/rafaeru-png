@@ -1,31 +1,59 @@
-# **👋 Oii, eu sou o Rafael**  
-### **💻 Desenvolvedor Full-Stack | 🚀 Apaixonado por Tecnologia**  
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeru-png/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rafaeru-png)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://seuportfolio.com)  
+###
 
----
+<p align="left">My name is Rafael, i'm currently living on Brazil.</p>
 
-## **🛠 Tecnologias & Habilidades**  
+###
 
-### **Front-end**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+<h2 align="left">About me</h2>
 
-### **Back-end & Ferramentas**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+###
 
----
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React.JS<br>🎯 Goals: Be a Senior Dev<br>🎲 Fun fact: </> = ☕</p>
 
-## **📌 Projetos em Destaque**  
+###
 
-| **Projeto** | **Descrição** | **Tecnologias** |  
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rafaeru-png/rafaeru-png/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaeru-png&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeru-png&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+## **📌 Projects**  
+
+| **Project** | **Description** | **Tecnology's** |  
 |-------------|--------------|----------------|  
 | [🔗 **Missão Estácio**](https://github.com/rafaeru-png/missao-1-mundo-2-estacio) | 3 projetos em um com HTML, CSS e JS puro | `HTML` `CSS` `JavaScript` |  
 | [🔗 **Gerenciamento para Opções Binarias**](https://github.com/rafaeru-png/gerenciamento-ob) | permite o controle detalhado de uma conta de corretora | `React` `Firebase` `CSS Modules` |  
@@ -33,7 +61,7 @@
 
 ---
 
-## **📊 Estatísticas do GitHub**  
+## **📊 GitHub Stats**  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeru-png&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -42,17 +70,9 @@
 
 ---
 
-## **🎯 Objetivos Atuais**  
+## **📫 Let's Talk?**  
 
-- **Aprender mais sobre** → `Next.js` `Testes Automatizados` `Design Systems`  
-- **Construir** → Um projeto open-source para a comunidade  
-- **Contribuir** → Em projetos de impacto social  
-
----
-
-## **📫 Vamos conversar?**  
-
-💬 **Me chame no:**  
+💬 **Call me on:**  
 - [LinkedIn](https://www.linkedin.com/in/rafaeru-png/)   
 - **Email:** rafaeru.png@gmail.com  
 
@@ -60,7 +80,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaeru-png&color=blueviolet" alt="Profile views" />
-  <p>Feito com ❤️ e ☕ por <strong>[Rafaeru.py]</strong></p>
+  <p>Feito com </> e ☕ por <strong>[Rafaeru.py]</strong></p>
 </div>
 
 ---
