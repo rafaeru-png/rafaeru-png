@@ -76,7 +76,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaeru-png&color=blueviolet" alt="Profile views" />
-  <p>Feito com </> e ☕ por <strong>[Rafaeru.py]</strong></p>
+  <p>Feito com < / > e ☕ por <strong>[Rafaeru.py]</strong></p>
 </div>
 
 ---
