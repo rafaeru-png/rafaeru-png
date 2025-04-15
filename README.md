@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React.JS<br>🎯 Goals: Be a Senior Dev<br>🎲 Fun fact: </> = ☕</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React.JS<br>🎯 Goals: Be a Senior Dev<br>🎲 Fun fact: < / > = ☕</p>
 
 ###
 
