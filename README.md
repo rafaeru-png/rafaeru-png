@@ -51,9 +51,9 @@
 
 | **Project** | **Description** | **Tecnology's** |  
 |-------------|--------------|----------------|  
-| [🔗 **Missão Estácio**](https://github.com/rafaeru-png/missao-1-mundo-2-estacio) | 3 projetos em um com HTML, CSS e JS puro | `HTML` `CSS` `JavaScript` |  
-| [🔗 **Gerenciamento para Opções Binarias**](https://github.com/rafaeru-png/gerenciamento-ob) | permite o controle detalhado de uma conta de corretora | `React` `Firebase` `CSS Modules` |  
-| [🔗 **Portfólio Pessoal**](https://github.com/rafaeru-png/) | Meu site pessoal | `Next.js` `TailwindCSS` `Framer Motion` |  
+| [🔗 **Missão Estácio**](https://github.com/rafaeru-png/missao-1-mundo-2-estacio) | 3 projetos em um com HTML, CSS e JS puro | `HTML` `CSS` |  
+| [🔗 **Gerenciamento para Opções Binarias**](https://github.com/rafaeru-png/gerenciamento-ob) | permite o controle detalhado de uma conta de corretora | `HTML` `CSS` `JavaScript` |  
+| [🔗 **Site para tecladistas**](https://github.com/rafaeru-png/wiki-teclas) | Meu site pessoal | `React` `TailwindCSS` |  
 
 ---
 
